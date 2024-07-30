@@ -1,0 +1,2 @@
+# squashonly
+For squash
